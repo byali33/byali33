@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning html css and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alidinc33@hotmail.com
+- 📫  You can contact me at alidinc33@hotmail.com.
 
 <!---
 byali33/byali33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
