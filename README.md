@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byali33
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning html css and javascript
+- 🌱 I’m currently learning html css javascript and react.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫  You can contact me at alidinc33@hotmail.com.
 
